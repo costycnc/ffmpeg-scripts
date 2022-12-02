@@ -4,3 +4,7 @@ time can be
                12.34s
                01:30 
                i see that is accepted ... or not?
+               can be
+               inpoint
+               endpoint
+               duration
