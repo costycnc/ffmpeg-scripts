@@ -8,3 +8,8 @@ time can be
                inpoint
                outpoint
                duration
+               
+in extractonepart
+
+               -t time lenght
+               -to to where
