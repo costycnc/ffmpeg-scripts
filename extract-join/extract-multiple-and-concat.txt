@@ -1,0 +1,7 @@
+file 'input.mp4'
+outpoint 60
+file 'input.mp4'
+inpoint 120
+outpoint 240
+file 'input.mp4'
+inpoint 300
