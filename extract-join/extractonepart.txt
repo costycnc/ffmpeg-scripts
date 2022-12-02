@@ -1,4 +1,0 @@
-file 'video.mp4'
-inpoint 5.25s
-outpoint 10.30s
-
