@@ -1,4 +1,5 @@
 time can be 
+
                121 in seconds
                12.34s
                01:30 
