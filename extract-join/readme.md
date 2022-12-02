@@ -6,5 +6,5 @@ time can be
                i see that is accepted ... or not?
                can be
                inpoint
-               endpoint
+               outpoint
                duration
