@@ -1,3 +1,2 @@
-ffmpeg -f concat -i extractonepart.txt -c copy output.mp4
-rem ffmpeg -i video.mp4 -inpoint 20 -outpoint 60 -c copy output.mp4
+ffmpeg -i video.mp4 -c copy -ss 00:00:05 -to 00:00:10 extract.mp4
 pause
